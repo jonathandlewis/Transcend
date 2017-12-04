@@ -1,0 +1,23 @@
+{
+  "name": "transcend",
+  "version": "1.0.0",
+  "description": "Manage student data and permissions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathandavidlewis/Transcend.git"
+  },
+  "author": "Jonathan Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathandavidlewis/Transcend/issues"
+  },
+  "homepage": "https://github.com/jonathandavidlewis/Transcend#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
